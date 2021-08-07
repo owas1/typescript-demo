@@ -1,5 +1,3 @@
-1. npm install typescript --save-dev
-
 Table of contents
 
 1.Base Types & Promitives
